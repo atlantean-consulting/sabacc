@@ -1,0 +1,7 @@
+error.txt
+__pycache__
+.claude
+.idea
+gui/__pycache__
+gui/gui2.py
+test_sabacc.py
