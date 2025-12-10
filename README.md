@@ -14,4 +14,4 @@ Git down with your bad self and extract the files to a convenient place of your 
 
 The computer will pick opponent names at random from `player_names.md`, which you can feel free to edit. The GUI will default to procedurally-generated elements, but you can substitute yer own graphics according to the instructions in `gui/assets/GUI-README.md`. As I create assets, I'll add them in future commits. Contributions and collaborations welcome! Email me at [devs@neroots.net](mailto:devs@neroots.net). Eventually I'm going to implement different skill levels and play styles for various players, as well as give them all cool 8-bit avatars. Stay tuned, and may the Force be with you!
 
-- PFG
+\- PFG
