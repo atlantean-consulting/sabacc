@@ -202,13 +202,14 @@ If a player doesn't have enough chips to call a bet, they have two options:
 
 1. Go "All In" and bet everything they have left; or
 
-2. Stake something else of value besides chips (like a spaceship). The other players must unanimously agree to accept the stake.
+2. Stake something else of value besides chips (like a spaceship). The other players must unanimously agree to accept the stake. In a space casino, the house would never allow a player to do this (they'd prefer the player *pawn* their valuables to the house in exchange for more chips). In casual play (say, in a smugglers' hideout), it would generally be considered bad form to let a player stake something critical to their livelihood: for example, a spaceship, unless the player owned multiple ships; or a blaster pistol, if that was the only weapon the player owned. Acceptable stakes are things like a gold chain with fancy space gems, or perhaps *one of* the player's guns. However, given that Sabacc is a favorite game of scoundrels, depending on how greedy one's opponents are, they certainly might allow someone to stake a spaceship. After all, this is how Han Solo came to be the owner of the *Millennium Falcon*.
 
 A player who is "all in" doesn't have to call subsequent bets from other players (since they *can't*), but because of this, they can't *win* any of that money either. If a player goes "all in", the value of the pot is frozen for the rest of the hand; any subsequent bets from other players go into a "side pot". If the "all in" player wins the hand, they only receive the value of the main pot; anything in the side pot gets split equally among the players who put money into it.
 
 If a player goes "all in", and a second player subsequently goes "all in", another side pot gets created and the same rules apply with respect to the second "all in" player.
 
 If a player decides to stake something else of value (like a spaceship), they still don't have to call subsequent bets, but no side pot gets created.
+
 
 [^1]:
     > The values of Strength and Justice are often reversed depending on
