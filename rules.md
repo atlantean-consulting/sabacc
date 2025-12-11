@@ -56,7 +56,7 @@ owner.
 
 If you're trying to explain what Sabacc is, feel free to borrow my "elevator pitch":
 
-"Sabacc is a card game with Texas Hold 'Em -style betting, Rummy-style card drawing, and Blackjack-style scoring."
+"Sabacc is a card game with Texas Hold 'Em-style betting, Rummy-style card drawing, and Blackjack-style scoring."
 
 ## How to Play
 
@@ -113,7 +113,7 @@ The dealer then deals one card face up to the discard pile, followed by three co
 
 Play then passes to P1 on the dealer's left. P1 can choose to *play*
 or *fold*. If P1 elects to fold, P1 gives their cards to the dealer,
-face down, and takes no further action in the hand. (***N.B. ***Folded
+face down, and takes no further action in the hand. (**N.B.** Folded
 cards go into the "banished" or "removed from the hand" pile.) If P1
 elects to play, P1 takes their first turn. Each player's turn follows
 the same pattern:
@@ -170,7 +170,7 @@ Number / Name                  | Value / Effect                 |
 |V -- The Hierophant            | Everyone must either confess the current value of their hand or instantly fold.  The Hierophant card is then removed from the hand.
 |VI -- The Lovers               | +6 or -6 points, your choice.  |
 |VII -- The Chariot             | Everyone must either discard 1 card or instantly fold.  The Chariot card is then removed from the hand.
-|VIII -- Strength (Justice[^1]) | > -8 points                      |
+|VIII -- Strength (Justice[^1]) | -8 points                      |
 |IX -- The Hermit               | Place the Hermit card face up in front of you.  You take no further action in the hand and automatically advance to the showdown without having to bet again. You are also immune from any special effects during this time.
 |X -- Wheel of Fortune          | Draw 4 cards, keep what you want, and discard the rest.  The Wheel of Fortune card is then removed from the hand.
 |XI -- Justice (Strength)       | -11 points                     |
